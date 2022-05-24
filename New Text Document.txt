@@ -1,0 +1,46 @@
+<!DOCTYPE = html>
+<head>
+    <meta name="viewpoint" content="width=device_width, initial_scale=1.0">
+    <title>webstie for lab test 2</title>
+</head>
+<body>
+    <img src="screenshot_1653361641.png" alt="first image" style="display:block">
+    <h1>ABOUT</h1>
+    <p>it can be intimidating for woman to learn and ask questions when they are in an <b>extreme minority</b>. While open and welcoming, today's budding developer community is up to <b>91% male</b>. If we can empower more females with the confidence in their technological capabilities <i>we can begin to change this lanscape.</i></p>
+    <h2>Our location</h2>
+    <div>
+        <ul>
+            <li>USA</li>
+            <li>
+                <ul>
+                    <a href="">New York</a>
+                    <a href="">Columbus</a>
+                    <a href="">Austin</a>
+                    <a href="">Philly</a>
+                </ul>
+            </li>
+            <li>World</li>
+            <li>
+                <ul>
+                    <a href="">Ottawa</a>
+                    <a href="">Sydney</a>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <h2>upcoming classes</h2>
+    <table>
+        <tr>
+            <td>location</td>
+            <td>location</td>
+        </tr>
+        <tr>
+            <td>New York</td>
+            <td>JavaScript & jQuerry</td>
+        </tr>
+        <tr>
+            <td>San Francissco</td>
+            <td>HTML & CSS</td>
+        </tr>
+    </table>
+</body>
